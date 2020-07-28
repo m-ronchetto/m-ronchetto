@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm Madison 👋
 
+I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**. I am currently a rising junior at <a href="https://wustl.edu/">Washington University in St. Louis</a>.
 <!--
 **m-ronchetto/m-ronchetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
