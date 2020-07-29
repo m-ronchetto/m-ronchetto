@@ -17,7 +17,7 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mronchetto435/)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-e0419b?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/mronchetto)
-[![mronchetto.wordpress.com](https://img.shields.io/badge/-Porfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://mronchetto.wordpress.com/)
+[![mronchetto.wordpress.com](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://mronchetto.wordpress.com/)
 <!--
 **m-ronchetto/m-ronchetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
