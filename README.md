@@ -1,6 +1,6 @@
 # Hi, I'm Madison 👋
 
-I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**. I am currently a rising junior at <a href="https://wustl.edu/">Washington University in St. Louis</a>.
+I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, and **React**. I am currently a rising junior at <a href="https://wustl.edu/">Washington University in St. Louis</a>.
 
 ### Working on 👩‍💻 
 - Creating a new portfolio website
@@ -8,6 +8,7 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 ### Goals for 2020 💡
 - Enter a Hackathon
 - Study abroad in Florence
+- Increase my design social media presence
 
 ### Fun facts 🌴
 - I am a <a href="https://washufigureskating.wixsite.com/2019"> competitive figure skater</a> for my university. 
