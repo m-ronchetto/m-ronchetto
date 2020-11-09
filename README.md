@@ -4,6 +4,8 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 
 ### Working on 👩‍💻 
 - Creating a new portfolio website
+- Project management for Oystar
+- Researching design accessibility
 
 ### Goals for 2020 💡
 - Enter a Hackathon
