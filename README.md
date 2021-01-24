@@ -1,6 +1,6 @@
 # Hi, I'm Madison 👋
 
-I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, and **React**. I am currently a junior at <a href="https://wustl.edu/">Washington University in St. Louis</a> and a web developer for <a href="https://thesqsh.org/">The St. Louis Queer Support Helpline<\a>.
+I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, and **React**. I am currently a junior at <a href="https://wustl.edu/">Washington University in St. Louis</a> and a web developer for <a href="https://thesqsh.org/">The St. Louis Queer Support Helpline</a>.
 
 ### Working on 👩‍💻 
 - Creating a new portfolio website
