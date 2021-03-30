@@ -1,20 +1,24 @@
 # Hi, I'm Madison 👋
 
-I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, and **React**. I am currently a junior at <a href="https://wustl.edu/">Washington University in St. Louis</a> and a web developer for <a href="https://thesqsh.org/">The St. Louis Queer Support Helpline</a>.
+I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, **P5**, and **React**. I am currently a junior at <a href="https://wustl.edu/">Washington University in St. Louis</a> and a web developer for <a href="https://thesqsh.org/">The St. Louis Queer Support Helpline</a>.
 
 ### Working on 👩‍💻 
 - Creating a new portfolio website
-- Project management for Oystar
+- Web design for the Washington University Medical School Center of Brain Immunology and Glia
 - Researching design accessibility
 
 ### Goals for 2021 💡
 - Experiment with creative coding 
 - Hike half dome
-- Take a grad-level course
+- Take time for side projects with Arduino
 
 ### Fun facts 🌴
 - I am a <a href="https://washufigureskating.wixsite.com/2019"> competitive figure skater</a> for my university. 
 - I can solve a Rubik's cube in 30 seconds.
+
+### Designers/Studios I'm Watching ✨
+- <a href="http://zach.li/"> Zach Lieberman </a>
+- <a href= "https://www.vocaltype.co/story-of"> Vocal Type </a>
 
 ### Find me around the web 🌎:
 
