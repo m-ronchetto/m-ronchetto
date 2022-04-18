@@ -24,7 +24,7 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mronchetto435/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://m-ronchetto.github.io/Portfolio/)
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ronchetto)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
