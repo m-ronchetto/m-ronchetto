@@ -7,7 +7,7 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 - Web design for the Washington University Medical School Center of Brain Immunology and Glia
 - Researching design accessibility
 
-### Goals for 2021 💡
+### Goals for 2022 💡
 - Experiment with creative coding 
 - Hike half dome
 - Take time for side projects with Arduino
@@ -24,8 +24,8 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mronchetto435/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://m-ronchetto.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/quarantined_baking/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-ronchetto)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **m-ronchetto/m-ronchetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
