@@ -1,5 +1,10 @@
 # Hi, I'm Madison 👋
 
+<img src="https://m-ronchetto.github.io/Portfolio/images/project-8/Cover%208.png" width="23%" height="180px"></img>
+<img src="https://m-ronchetto.github.io/Portfolio/images/project-3/Cover%203.png" width="23%" height="180px"></img>
+<img src="https://m-ronchetto.github.io/Portfolio/images/project-4/Cover%204.png" width="23%" height="180px"></img>
+<img src="https://m-ronchetto.github.io/Portfolio/images/project-7/Cover%207.png" width="23%" height="180px"></img>
+
 I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, **P5**, and **React**. I am  a recent graduate from <a href="https://wustl.edu/">Washington University in St. Louis</a> and most recently worked as a designer and researcher at the Health Communication Design Studio within the Brown School of Social Work.
 
 ### Working on 👩‍💻 
