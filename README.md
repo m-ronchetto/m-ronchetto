@@ -1,13 +1,12 @@
 # Hi, I'm Madison 👋
 
-I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, **P5**, and **React**. I am currently a senior at <a href="https://wustl.edu/">Washington University in St. Louis</a> and a web developer for <a href="https://thesqsh.org/">The St. Louis Queer Support Helpline</a>.
+I am a UX Designer from San Diego, California. I enjoy working on web applications, and I am currently learning **D3**, **Swift**, **P5**, and **React**. I am  a recent graduate from <a href="https://wustl.edu/">Washington University in St. Louis</a> and most recently worked as a designer and researcher at the Health Communication Design Studio within the Brown School of Social Work.
 
 ### Working on 👩‍💻 
-- Creating a new portfolio website
 - Web design for the Washington University Medical School Center of Brain Immunology and Glia
 - Researching design accessibility
 
-### Goals for 2022 💡
+### Goals for 2023 💡
 - Experiment with creative coding 
 - Hike half dome
 - Take time for side projects with Arduino
@@ -19,6 +18,10 @@ I am a UX Designer from San Diego, California. I enjoy working on web applicatio
 ### Designers/Studios I'm Watching ✨
 - <a href="http://zach.li/"> Zach Lieberman </a>
 - <a href= "https://www.vocaltype.co/story-of"> Vocal Type </a>
+
+### In the News 📰
+- <a href="https://samfoxschool.wustl.edu/the-school/diversity-equity-inclusion/fairness-diversity-committee"> Serving on the Sam Fox School's Fairness and Diversity Committee </a>
+- <a href="https://samfoxschool.wustl.edu/collaborations/health-communication-design-studio"> Past work with the Health Communication Design Studio</a>
 
 ### Find me around the web 🌎:
 
